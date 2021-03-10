@@ -1,6 +1,6 @@
 # EDDI Russian personality
 
-Russian persnality created for open source project [EDDI](https://github.com/EDCD/EDDI).
+Russian personality created for open source project [EDDI](https://github.com/EDCD/EDDI).
 
 EDDI is a companion application for Elite: Dangerous, providing responses to events that occur in-game using data from the game as well as various third-party tools.
 
